@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/chroma_franchising/
+data/checkpoints.sqlite*
+data/franchising.db
+docs/*.htm
+docs/*.html
+docs/*.pdf
+data/mcp_*.log

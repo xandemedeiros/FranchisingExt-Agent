@@ -1,0 +1,8 @@
+[
+  {"id": "UN-01", "bairro": "Centro", "cidade": "São Paulo", "cep_prefixo": "010", "raio_km": 2.0, "modelo": "loja_rua", "status": "ATIVA"},
+  {"id": "UN-02", "bairro": "Moema", "cidade": "São Paulo", "cep_prefixo": "045", "raio_km": 1.5, "modelo": "loja_shopping", "status": "EM_IMPLANTACAO"},
+  {"id": "UN-03", "bairro": "Pinheiros", "cidade": "São Paulo", "cep_prefixo": "054", "raio_km": 2.0, "modelo": "loja_rua", "status": "ATIVA"},
+  {"id": "UN-04", "bairro": "Savassi", "cidade": "Belo Horizonte", "cep_prefixo": "301", "raio_km": 2.0, "modelo": "loja_rua", "status": "ATIVA"},
+  {"id": "UN-05", "bairro": "Ponta Negra", "cidade": "Natal", "cep_prefixo": "590", "raio_km": 1.5, "modelo": "loja_shopping", "status": "ATIVA"},
+  {"id": "UN-06", "bairro": "Boa Viagem", "cidade": "Recife", "cep_prefixo": "510", "raio_km": 2.0, "modelo": "loja_rua", "status": "RESERVADA"}
+]

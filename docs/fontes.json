@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lei_13966",
+    "nome_documento": "Lei nº 13.966/2019",
+    "titulo": "Lei nº 13.966, de 26 de dezembro de 2019 (Lei de Franquias)",
+    "orgao": "Presidência da República – Planalto",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13966.htm",
+    "arquivo": "Lei_13966_2019.htm",
+    "tipo_documento": "LEI",
+    "data_atualizacao": "2019-12-26",
+    "uso": "Circular de Oferta de Franquia: conteúdo obrigatório, prazo de entrega, anulabilidade e devolução de valores, sublocação do ponto."
+  },
+  {
+    "id": "lei_8245",
+    "nome_documento": "Lei nº 8.245/1991",
+    "titulo": "Lei nº 8.245, de 18 de outubro de 1991 (Lei do Inquilinato)",
+    "orgao": "Presidência da República – Planalto",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm",
+    "arquivo": "Lei_8245_1991.htm",
+    "tipo_documento": "LEI",
+    "data_atualizacao": "1991-10-18 (texto com as alterações posteriores)",
+    "uso": "Locação do ponto comercial: ação renovatória (art. 51), exceções (art. 52), shopping centers (art. 54)."
+  },
+  {
+    "id": "sebrae_guia",
+    "nome_documento": "Sebrae – Guia de Franquias",
+    "titulo": "Sebrae – Guia de franquias (volumes Franquia, Franqueado e Franqueador)",
+    "orgao": "Sebrae – Biblioteca Digital (bibliotecas.sebrae.com.br)",
+    "url": "https://bibliotecas.sebrae.com.br/chronus/ARQUIVOS_CHRONUS/bds/bds.nsf/d880f7e56a75b8e2232005a1dcdfb7d9/%24File/7581.pdf",
+    "arquivo": "Sebrae_Guia_Franquias.pdf",
+    "tipo_documento": "GUIA",
+    "data_atualizacao": "não informada (dados de 2015)",
+    "uso": "Orientações para o candidato: escolha da franquia, COF, investimento, capital de giro, royalties, fundo de propaganda, prazo de retorno e ponto comercial."
+  }
+]
